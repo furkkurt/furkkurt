@@ -5,7 +5,7 @@
 <img allign="center", width="16" height="16" src="https://user-images.githubusercontent.com/69459954/164382017-d291d03a-96dc-4cff-b82c-3c2c591fb420.png"> Java   
 </p>
 <p align="center">
-<img allign="center", width="16" height="16" src="https://user-images.githubusercontent.com/69459954/164381940-0eca171b-12a5-4ec2-a9d3-d8be21cf63eb.png"> 
+<img allign="center", width="16" height="16" src="https://user-images.githubusercontent.com/69459954/164563910-e7914076-2419-4ad5-b98a-7c5399fc8db2.png"> 
 JavaScript   
 </p>
 <p align="center">
@@ -13,6 +13,9 @@ JavaScript
 Phaser 3.5   
 </p>
 <p align="center">
-<img allign="center", width="16" height="16" src="https://user-images.githubusercontent.com/69459954/164381972-cbca590f-87a1-4e04-8a67-f8e1054ecb7b.png"> 
-Bash
+<img allign="center", width="100" src="https://imgs.search.brave.com/pueJXq18c9Ht9W_CJ9imOnqVrAWhQacsOnhbwUGTVqA/rs:fit:1200:1011:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvYmFz/aC0xLWxvZ28tcG5n/LXRyYW5zcGFyZW50/LnBuZw"> 
+</p>
+
+<p align="center">
+<img allign="center", width="25" height="25" src="https://imgs.search.brave.com/nUPWdjvS4g-ORJoZ8JuMtAmHkMJPRXVEyfopvjZcMVc/rs:fit:1200:1024:1/g:ce/aHR0cHM6Ly9iaXRj/dS5jby9lbi93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMC8wNy9W/b2lkX0xpbnV4X2xv/Z28uc3ZnXy5wbmc"> <img allign="center", width="25" height="25" src="https://imgs.search.brave.com/IaR1NP64OQE4ctvaAGXT3ZuwBNcx4DQXgAlNEG4GKUY/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/cmFzcGJlcnJ5aXRh/bHkuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE1LzA0L0Fy/Y2gtbGludXgtbG9n/by5wbmc"> <img allign="center", width="25" height="25" src="https://user-images.githubusercontent.com/69459954/164563422-cad10723-65da-43ca-8997-fef224f99c6b.png"> 
 </p>
