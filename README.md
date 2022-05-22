@@ -21,6 +21,6 @@ Phaser 3.5
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=furkkurt&show_icons=true&theme=dracula">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkkurt&layout=compact&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api?username=furkkurt&show_icons=true&theme=dracula">
 </p>
