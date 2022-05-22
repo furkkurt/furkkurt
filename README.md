@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/xUA7bjUH8gkTi0JuXC/giphy.gif"/>
+  <img width:"200", src="https://media.giphy.com/media/xUA7bjUH8gkTi0JuXC/giphy.gif"/>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=furkkurt&show_icons=true&theme=dracula">
 </p>
 <p align="center">
 <img allign="center", width="16" height="16" src="https://user-images.githubusercontent.com/69459954/164382017-d291d03a-96dc-4cff-b82c-3c2c591fb420.png"> Java   
@@ -22,5 +25,4 @@ Phaser 3.5
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkkurt&layout=compact&theme=dracula">
-<img src="https://github-readme-stats.vercel.app/api?username=furkkurt&show_icons=true&theme=dracula">
 </p>
