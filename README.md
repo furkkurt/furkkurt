@@ -5,6 +5,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=furkkurt&show_icons=true&theme=dracula">
 </p>
 <p align="center">
+<img src="https://www.codewars.com/users/furkkurt/badges/large">
+</p>
+<p align="center">
 <img allign="center", width="16" height="16" src="https://user-images.githubusercontent.com/69459954/164382017-d291d03a-96dc-4cff-b82c-3c2c591fb420.png"> Java   
 </p>
 <p align="center">
