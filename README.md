@@ -20,6 +20,10 @@ JavaScript
 Phaser 3.5   
 </p>
 <p align="center">
+<img allign="center", width="16" height="16" src="https://user-images.githubusercontent.com/69459954/190922176-e32c73c2-8e2c-48fc-af62-dbe1fa21f81e.png"> 
+Tailwind
+</p>
+<p align="center">
 <img allign="center", width="100" src="https://imgs.search.brave.com/pueJXq18c9Ht9W_CJ9imOnqVrAWhQacsOnhbwUGTVqA/rs:fit:1200:1011:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvYmFz/aC0xLWxvZ28tcG5n/LXRyYW5zcGFyZW50/LnBuZw"> 
 </p>
 
