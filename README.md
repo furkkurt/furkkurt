@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 24px">
+<p align="center" style="font-size: 48px">
   www.makinDAGames.xyz<br>
   <img width:"200", src="https://media.giphy.com/media/xUA7bjUH8gkTi0JuXC/giphy.gif"/>
 </p>
