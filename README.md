@@ -1,5 +1,6 @@
 <p align="center" style="font-size: 48px">
   www.makinDAGames.xyz<br>
+  https://play.google.com/store/apps/developer?id=makinDAGames<br>
   <img width:"200", src="https://media.giphy.com/media/xUA7bjUH8gkTi0JuXC/giphy.gif"/>
 </p>
 <p align="center">
