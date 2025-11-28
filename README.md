@@ -1,15 +1,3 @@
-<div align="center">
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=furkkurt&show_icons=true&theme=dracula">
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=furkkurt&layout=compact&theme=dracula">
-  
-  <img src="https://www.codewars.com/users/furkkurt/badges/large">
-  
-  ---
-  
-</div>
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -51,14 +39,14 @@
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-  [🌐 kurt.cool](https://kurt.cool)<br>
-  [🎮 makindagames.xyz](https://makindagames.xyz)<br>
-  [🎸 clawhammer.xyz](https://clawhammer.xyz)<br><br>
-  [Frontend Mentors](https://furkkurt.github.io)<br>
-  [Google Play](https://play.google.com/store/apps/developer?id=makinDAGames)<br>
-  [📄 Resume](./resume.pdf)
-</div>
+**Personal Websites**<br>
+[🌐 kurt.cool](https://kurt.cool)<br>
+[🎮 makindagames.xyz](https://makindagames.xyz)<br>
+[🎸 clawhammer.xyz](https://clawhammer.xyz)<br><br>
+**Other Links**<br>
+[Frontend Mentors](https://furkkurt.github.io)<br>
+[Google Play](https://play.google.com/store/apps/developer?id=makinDAGames)<br>
+[📄 Resume](./resume.pdf)
 
 </td>
 </tr>
