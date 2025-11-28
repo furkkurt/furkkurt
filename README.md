@@ -1,5 +1,4 @@
-<div>  
-  <div style="background-color: white; padding: 20px; border-radius: 10px; display: inline-block;">
+
     <img width="20" height="20" src="icons/webstorm-svgrepo-com.svg">
     <img width="20" height="20" src="icons/node-svgrepo-com.svg">
     <img width="20" height="20" src="icons/next-16-svgrepo-com.svg">
@@ -31,7 +30,6 @@
     <img width="20" height="20" src="icons/bash-icon-svgrepo-com.svg">
     <img width="20" height="20" src="icons/vim-svgrepo-com.svg">
     <img width="20" height="20" src="icons/arduino-svgrepo-com.svg">
-  </div>
   
   ---
   
@@ -45,4 +43,3 @@
   
   ![](https://komarev.com/ghpvc/?username=furkkurt)
   
-</div>
