@@ -17,19 +17,19 @@
   <img width="20" height="20" src="icons/hugo-svgrepo-com.svg">
   <img width="20" height="20" src="icons/aws-svgrepo-com.svg">
   <img width="20" height="20" src="icons/firebase-svgrepo-com.svg">
-  
+  <br>
   <img width="20" height="20" src="icons/androidstudio-svgrepo-com.svg">
   <img width="20" height="20" src="icons/cordova-svgrepo-com.svg">
   **Android Dev**
   <img width="20" height="20" src="icons/flutter-svgrepo-com.svg">
   <img width="20" height="20" src="icons/dart-svgrepo-com.svg">
-  
+  <br>
   <img width="20" height="20" src="icons/aseprite-svgrepo-com.svg">
   <img width="20" height="20" src="icons/phaser.png">
   **Game Dev**
   <img width="20" height="20" src="icons/unity-svgrepo-com.svg">
   <img width="20" height="20" src="icons/spine.jpeg">
-  
+  <br>
   <img width="20" height="20" src="icons/raspberry-pi-svgrepo-com.svg">
   <img width="20" height="20" src="icons/arch-linux-svgrepo-com.svg">
   <img width="20" height="20" src="icons/void-svgrepo-com.svg">
