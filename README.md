@@ -1,44 +1,36 @@
-<div align="center">
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=furkkurt&show_icons=true&theme=dracula"><br>
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=furkkurt&layout=compact&theme=dracula"><br>
-  
-  <img src="https://www.codewars.com/users/furkkurt/badges/large">
-  
-  ---
-  
-  <img width="20" height="20" src="icons/webstorm-svgrepo-com.svg">
-  <img width="20" height="20" src="icons/node-svgrepo-com.svg">
-  <img width="20" height="20" src="icons/next-16-svgrepo-com.svg">
-  <img width="20" height="20" src="icons/tailwind-svgrepo-com.svg">
-  **Web Dev**
-  <img width="20" height="20" src="icons/astro-svgrepo-com.svg">
-  <img width="20" height="20" src="icons/hugo-svgrepo-com.svg">
-  <img width="20" height="20" src="icons/aws-svgrepo-com.svg">
-  <img width="20" height="20" src="icons/firebase-svgrepo-com.svg">
-  <br>
-  <img width="20" height="20" src="icons/androidstudio-svgrepo-com.svg">
-  <img width="20" height="20" src="icons/cordova-svgrepo-com.svg">
-  **Android Dev**
-  <img width="20" height="20" src="icons/flutter-svgrepo-com.svg">
-  <img width="20" height="20" src="icons/dart-svgrepo-com.svg">
-  <br>
-  <img width="20" height="20" src="icons/aseprite-svgrepo-com.svg">
-  <img width="20" height="20" src="icons/phaser.png">
-  **Game Dev**
-  <img width="20" height="20" src="icons/unity-svgrepo-com.svg">
-  <img width="20" height="20" src="icons/spine.jpeg">
-  <br>
-  <img width="20" height="20" src="icons/raspberry-pi-svgrepo-com.svg">
-  <img width="20" height="20" src="icons/arch-linux-svgrepo-com.svg">
-  <img width="20" height="20" src="icons/void-svgrepo-com.svg">
-  <img width="20" height="20" src="icons/gnu-svgrepo-com.svg">
-  **Linux Enthusiast**
-  <img width="20" height="20" src="icons/gnu-linux-svgrepo-com.svg">
-  <img width="20" height="20" src="icons/bash-icon-svgrepo-com.svg">
-  <img width="20" height="20" src="icons/vim-svgrepo-com.svg">
-  <img width="20" height="20" src="icons/arduino-svgrepo-com.svg">
+  <div style="background-color: white; padding: 20px; border-radius: 10px; display: inline-block;">
+    <img width="20" height="20" src="icons/webstorm-svgrepo-com.svg">
+    <img width="20" height="20" src="icons/node-svgrepo-com.svg">
+    <img width="20" height="20" src="icons/next-16-svgrepo-com.svg">
+    <img width="20" height="20" src="icons/tailwind-svgrepo-com.svg">
+    Web Dev
+    <img width="20" height="20" src="icons/astro-svgrepo-com.svg">
+    <img width="20" height="20" src="icons/hugo-svgrepo-com.svg">
+    <img width="20" height="20" src="icons/aws-svgrepo-com.svg">
+    <img width="20" height="20" src="icons/firebase-svgrepo-com.svg">
+    <br>
+    <img width="20" height="20" src="icons/androidstudio-svgrepo-com.svg">
+    <img width="20" height="20" src="icons/cordova-svgrepo-com.svg">
+    Android Dev
+    <img width="20" height="20" src="icons/flutter-svgrepo-com.svg">
+    <img width="20" height="20" src="icons/dart-svgrepo-com.svg">
+    <br>
+    <img width="20" height="20" src="icons/aseprite-svgrepo-com.svg">
+    <img width="20" height="20" src="icons/phaser.png">
+    Game Dev
+    <img width="20" height="20" src="icons/unity-svgrepo-com.svg">
+    <img width="20" height="20" src="icons/spine.jpeg">
+    <br>
+    <img width="20" height="20" src="icons/raspberry-pi-svgrepo-com.svg">
+    <img width="20" height="20" src="icons/arch-linux-svgrepo-com.svg">
+    <img width="20" height="20" src="icons/void-svgrepo-com.svg">
+    <img width="20" height="20" src="icons/gnu-svgrepo-com.svg">
+    Linux Enthusiast
+    <img width="20" height="20" src="icons/gnu-linux-svgrepo-com.svg">
+    <img width="20" height="20" src="icons/bash-icon-svgrepo-com.svg">
+    <img width="20" height="20" src="icons/vim-svgrepo-com.svg">
+    <img width="20" height="20" src="icons/arduino-svgrepo-com.svg">
+  </div>
   
   ---
   
