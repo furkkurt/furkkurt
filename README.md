@@ -1,3 +1,4 @@
+<div>  
   <div style="background-color: white; padding: 20px; border-radius: 10px; display: inline-block;">
     <img width="20" height="20" src="icons/webstorm-svgrepo-com.svg">
     <img width="20" height="20" src="icons/node-svgrepo-com.svg">
