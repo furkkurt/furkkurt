@@ -1,35 +1,35 @@
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 <div style="background-color: white; padding: 20px; border-radius: 10px;">
+  Web Dev<br>
   <img width="20" height="20" src="icons/webstorm-svgrepo-com.svg">
   <img width="20" height="20" src="icons/node-svgrepo-com.svg">
   <img width="20" height="20" src="icons/next-16-svgrepo-com.svg">
   <img width="20" height="20" src="icons/tailwind-svgrepo-com.svg">
-  Web Dev
   <img width="20" height="20" src="icons/astro-svgrepo-com.svg">
   <img width="20" height="20" src="icons/hugo-svgrepo-com.svg">
   <img width="20" height="20" src="icons/aws-svgrepo-com.svg">
   <img width="20" height="20" src="icons/firebase-svgrepo-com.svg">
   <br>
+  Android Dev<br>
   <img width="20" height="20" src="icons/androidstudio-svgrepo-com.svg">
   <img width="20" height="20" src="icons/cordova-svgrepo-com.svg">
-  Android Dev
   <img width="20" height="20" src="icons/flutter-svgrepo-com.svg">
   <img width="20" height="20" src="icons/dart-svgrepo-com.svg">
   <br>
+  Game Dev<br>
   <img width="20" height="20" src="icons/aseprite-svgrepo-com.svg">
   <img width="20" height="20" src="icons/phaser.png">
-  Game Dev
   <img width="20" height="20" src="icons/unity-svgrepo-com.svg">
   <img width="20" height="20" src="icons/spine.jpeg">
   <br>
+  Linux Enthusiast<br>
   <img width="20" height="20" src="icons/raspberry-pi-svgrepo-com.svg">
   <img width="20" height="20" src="icons/arch-linux-svgrepo-com.svg">
   <img width="20" height="20" src="icons/void-svgrepo-com.svg">
   <img width="20" height="20" src="icons/gnu-svgrepo-com.svg">
-  Linux Enthusiast
   <img width="20" height="20" src="icons/gnu-linux-svgrepo-com.svg">
   <img width="20" height="20" src="icons/bash-icon-svgrepo-com.svg">
   <img width="20" height="20" src="icons/vim-svgrepo-com.svg">
@@ -37,7 +37,7 @@
 </div>
 
 </td>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 **Personal Websites**<br>
 [🌐 kurt.cool](https://kurt.cool)<br>
