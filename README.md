@@ -20,14 +20,15 @@
   <img width="20" height="20" src="icons/dart-svgrepo-com.svg">
   <br>
   Game Dev<br>
-  <img width="20" height="20" src="icons/aseprite-svgrepo-com.svg">
   <img width="20" height="20" src="icons/unity-svgrepo-com.svg">
+  <img width="20" height="20" src="icons/godot.svg">
   <img width="20" height="20" src="icons/phaser.png">
+  <img width="20" height="20" src="icons/aseprite-svgrepo-com.svg">
   <img width="20" height="20" src="icons/spine.jpeg">
   <br>
   Linux Enthusiast<br>
   <img width="20" height="20" src="icons/gnu-svgrepo-com.svg">
-  <img width="20" height="20" src="icons/gnu-linux-svgrepo-com.svg">
+  <img width="20" height="20" src="icons/linux-svgrepo-com.svg">
   <img width="20" height="20" src="icons/raspberry-pi-svgrepo-com.svg">
   <img width="20" height="20" src="icons/bash-icon-svgrepo-com.svg">
   <img width="20" height="20" src="icons/vim-svgrepo-com.svg">
