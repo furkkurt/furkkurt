@@ -5,7 +5,7 @@
 <div style="background-color: white; padding: 20px; border-radius: 10px;">
   Web Dev<br>
   <img width="20" height="20" src="icons/aws-svgrepo-com.svg">
-  <img width="20" height="20" src="icons/next-16-svgrepo-com.svg">
+  <img width="20" height="20" src="icons/next-js-svgrepo-com.svg">
   <img width="20" height="20" src="icons/webstorm-svgrepo-com.svg">
   <img width="20" height="20" src="icons/node-svgrepo-com.svg">
   <img width="20" height="20" src="icons/tailwind-svgrepo-com.svg">
@@ -14,16 +14,16 @@
   <img width="20" height="20" src="icons/firebase-svgrepo-com.svg">
   <br>
   Android Dev<br>
-  <img width="20" height="20" src="icons/androidstudio-svgrepo-com.svg">
-  <img width="20" height="20" src="icons/cordova-svgrepo-com.svg">
+  <img width="20" height="20" src="icons/64px-Android_Studio_Icon_3.6.svg.png">
+  <img width="20" height="20" src="icons/cordova_64.png">
   <img width="20" height="20" src="icons/flutter-svgrepo-com.svg">
   <img width="20" height="20" src="icons/dart-svgrepo-com.svg">
   <br>
   Game Dev<br>
-  <img width="20" height="20" src="icons/unity-svgrepo-com.svg">
+  <img width="20" height="20" src="icons/Unity.svg">
   <img width="20" height="20" src="icons/godot.svg">
   <img width="20" height="20" src="icons/phaser.png">
-  <img width="20" height="20" src="icons/aseprite-svgrepo-com.svg">
+  <img width="20" height="20" src="icons/libresprite-seeklogo.svg">
   <img width="20" height="20" src="icons/spine.jpeg">
   <br>
   Linux Enthusiast<br>
