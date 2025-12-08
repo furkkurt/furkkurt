@@ -12,6 +12,7 @@
   <img width="20" height="20" src="icons/astro-svgrepo-com.svg">
   <img width="20" height="20" src="icons/hugo-svgrepo-com.svg">
   <img width="20" height="20" src="icons/firebase-svgrepo-com.svg">
+  <img width="20" height="20" src="icons/Electron_Software_Framework_Logo.svg">
   <br>
   Android Dev<br>
   <img width="20" height="20" src="icons/64px-Android_Studio_Icon_3.6.svg.png">
@@ -34,6 +35,8 @@
   <img width="20" height="20" src="icons/vim-svgrepo-com.svg">
   <img width="20" height="20" src="icons/arduino-svgrepo-com.svg">
   <img width="20" height="20" src="icons/void-svgrepo-com.svg">
+  <img width="20" height="20" src="icons/arch-linux-svgrepo-com.svg">
+  <img width="20" height="20" src="icons/Raspberry_Pi_Logo.svg">
 </div>
 
 </td>
