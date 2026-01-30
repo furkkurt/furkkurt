@@ -31,12 +31,11 @@
   Linux Enthusiast<br>
   <img width="20" height="20" src="icons/gnu-svgrepo-com.svg">
   <img width="20" height="20" src="icons/linux-svgrepo-com.svg">
-  <img width="20" height="20" src="icons/raspberry-pi-svgrepo-com.svg">
   <img width="20" height="20" src="icons/bash-icon-svgrepo-com.svg">
   <img width="20" height="20" src="icons/vim-svgrepo-com.svg">
-  <img width="20" height="20" src="icons/arduino-svgrepo-com.svg">
   <img width="20" height="20" src="icons/void-svgrepo-com.svg">
   <img width="20" height="20" src="icons/arch.png">
+  <img width="20" height="20" src="icons/arduino-svgrepo-com.svg">
   <img width="20" height="20" src="icons/Raspberry_Pi_Logo.svg">
 </div>
 
