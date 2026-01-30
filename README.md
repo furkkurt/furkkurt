@@ -26,6 +26,7 @@
   <img width="20" height="20" src="icons/phaser.png">
   <img width="20" height="20" src="icons/libresprite-seeklogo.svg">
   <img width="20" height="20" src="icons/spine.jpeg">
+  <img width="20" height="20" src="icons/rpgmz.png">
   <br>
   Linux Enthusiast<br>
   <img width="20" height="20" src="icons/gnu-svgrepo-com.svg">
